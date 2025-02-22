@@ -1,0 +1,4 @@
+1. ptcg-pocket-sim project is a Shiny app written in Python.
+2. The app allows you to simulate your Pokemon TCG Pocket game.
+3. htmltools is used for HTML generation.
+4. You can find the source code on GitHub: https://github.com/artyinfact/ptcg-pocket-sim   
